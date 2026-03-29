@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "476178808459",
+    "project_id": "studio-7042851992-9bcbc",
+    "storage_bucket": "studio-7042851992-9bcbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476178808459:android:b11c58b981a2b2b24bde8e",
+        "android_client_info": {
+          "package_name": "com.dietguard.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476178808459-6bfj4omnmv9dfojt58heiov9cmd0heve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOcC4n7ZwwwEEvRQLNzLDtVQl-F6u0r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476178808459-6bfj4omnmv9dfojt58heiov9cmd0heve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476178808459:android:2c2a802d5f175e124bde8e",
+        "android_client_info": {
+          "package_name": "com.ls.dietguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476178808459-6bfj4omnmv9dfojt58heiov9cmd0heve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOcC4n7ZwwwEEvRQLNzLDtVQl-F6u0r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476178808459-6bfj4omnmv9dfojt58heiov9cmd0heve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

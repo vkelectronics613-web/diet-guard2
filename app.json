@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "JunkGuard",
+    "slug": "junkguard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.junkguard.app"
+    },
+    "android": {
+      "package": "com.junkguard.app",
+      "permissions": [
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.PACKAGE_USAGE_STATS",
+        "android.permission.SYSTEM_ALERT_WINDOW"
+      ]
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-notifications",
+      "./plugins/withDietGuardPermissions"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ca76151f-f755-4dba-b79d-fcd2dce0d7e3"
+      }
+    }
+  }
+}
